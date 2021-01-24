@@ -4,7 +4,7 @@
 
 FROM alpine:latest
 
-LABEL maintainer="Russ McKendrick <russ@mckendrick.io>"
+LABEL maintainer="Paul Gokkek <paul.gokke@atvanzt.nl>"
 LABEL org.opencontainers.image.source https://github.com/atv-docker/image-builders
 LABEL org.opencontainers.image.description "A base image, useful for starting container builds, see this containers GitHub repo for more info"
 
