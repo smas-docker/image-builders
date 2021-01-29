@@ -1,2 +1,2 @@
 # image-builders
-All Atvanzt Docker images to support our piplelines
+All SMA Services Docker images for general support in piplelines and others.
